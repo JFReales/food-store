@@ -5,7 +5,7 @@ Alumno: **Reales, Juan Francisco**
 
 | | |
 |---|---|
-| Repositorio | **COMPLETAR:** `https://github.com/USUARIO/food-store` |
+| Repositorio | **COMPLETAR:** `https://github.com/JFReales/food-store` |
 | Video de demostración | **COMPLETAR:** link público (YouTube / Drive) |
 
 Aplicación web completa para un negocio de comidas. Los clientes se registran,
